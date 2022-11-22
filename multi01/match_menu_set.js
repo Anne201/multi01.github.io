@@ -12,4 +12,5 @@ menu_items = new Array(
 , '九九乘法-4-8,match_set_4_8x9.js'
 , '九九乘法-3-6,match_set_3_6x9.js'
 , '九九乘法-7-9,match_set_7_9x9.js'
+, '九九乘法-倍的問題,match_set_times.js'
 );
